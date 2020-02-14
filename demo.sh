@@ -1,2 +1,2 @@
 #!/bin/bash/
-touch file{3..7}
+touch file{2..7}
