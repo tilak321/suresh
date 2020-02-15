@@ -1,2 +1,2 @@
 #!/bin/bash/
-touch file{2..7}
+echo "hello world"
